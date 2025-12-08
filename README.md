@@ -33,7 +33,7 @@ O modelo foi treinado e validado utilizando o dataset público **HAM10000**, que
 ### 📄 Documentação Completa
 O desenvolvimento acadêmico detalhado pode ser encontrado nos arquivos abaixo:
 
-* [📕 Relatório Final de Pesquisa (PDF)](docs/Relatorio_Final_IC.pdf)
+* [📕 Relatório Final de Pesquisa (PDF)](https://github.com/amsilveira-ce/skin-lesion-diagnosis-vgg/tree/main/documents)
 * [💻 Apresentação de Slides (PDF)](docs/Apresentacao_IC.pdf)
 
 ---
