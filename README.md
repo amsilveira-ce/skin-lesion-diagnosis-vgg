@@ -52,3 +52,8 @@ O desenvolvimento acadêmico detalhado pode ser encontrado nos arquivos abaixo:
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/seu-usuario/skin-lesion-diagnosis-vgg.git](https://github.com/seu-usuario/skin-lesion-diagnosis-vgg.git)
+   
+---
+
+Agradecimentos
+Ao Prof. Dr. Ademar Takeo Akabane pela orientação e à PUC-Campinas/FAPIC pelo fomento à pesquisa.
